@@ -1,0 +1,45 @@
+.todo-div{
+    background-color: white;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 150px;
+    border-radius: 10px;
+}
+
+.todo-item {
+    height: 50px;
+
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+    background-color: rgb(252, 252, 252);
+}
+
+
+.list-banner{
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px solid #ff9966;
+}
+
+.index-no{
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.btns{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-cls {
+    border: none;
+    background: none;
+}
+
+.date{
+    opacity: 0.5;
+}

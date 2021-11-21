@@ -1,0 +1,12 @@
+body{
+  background-color:linear-gradient(to right bottom, #FDC830,#F37335);
+  background-size: cover;
+}
+
+.todo-header {
+  color: white;
+  text-align: center;
+  margin-top: 3em;
+  font-size: large;
+  margin-bottom: 2em;
+}
